@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mario 👋
 
-<!--
-**Mario-Youchia/Mario-Youchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Software Engineer specializing in Machine Learning, Deep Learning, Computer Vision, and Embedded Intelligent Systems.
 
-Here are some ideas to get you started:
+# About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build intelligent systems that combine software, artificial intelligence, and hardware.
+
+My interests include:
+- Machine Learning and Deep Learning
+- Computer Vision
+- Medical AI
+- Natural Language Processing
+- Embedded Systems and IoT
+- Robotics
